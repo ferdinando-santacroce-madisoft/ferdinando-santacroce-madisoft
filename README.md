@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello!
+I'm Ferdinando Santacroce 😀
 
-<!--
-**ferdinando-santacroce-madisoft/ferdinando-santacroce-madisoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I’m in the software field since 1998.  
 
-Here are some ideas to get you started:
+👨‍🏫 I've been a high school teacher  
+👨‍💻 Then a software developer  
+🔭 I’m currently working on the modernization of a big and successful SaaS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💼 I’m on [LinkedIn](https://www.linkedin.com/in/ferdinandosantacroce/)  
+🐘 and even on [Mastodon](https://mastodon.social/@ferdinandosantacroce).  
+
+📫 How to reach me: [ferdinandosantacroce.it](https://ferdinandosantacroce.it)  
+
+⚡ More on my personal Github profile: [@jesuswasrasta](https://github.com/jesuswasrasta)
